@@ -1,0 +1,28 @@
+{
+	"data": [
+	 {
+	   "vin": "WF0JXXGAHJHC40110",
+	   "dateTime": "09/05/2018 03:57",
+	   "odometer": 6937,
+	   "fuel": 24.021813
+	 },
+	 {
+	   "vin": "WF0JXXGAHJHC40110",
+	   "dateTime": "10/05/2018 03:28",
+	   "odometer": 6953,
+	   "fuel": 19.347885
+	 },
+	 {
+	   "vin": "WF0JXXGAHJHC40110",
+	   "dateTime": "17/05/2018 12:46",
+	   "odometer": 2257,
+	   "fuel": 27.717477
+	 },
+	 {
+	   "vin": "WF0JXXGAHJHC40110",
+	   "dateTime": "17/05/2018 12:55",
+	   "odometer": 2264,
+	   "fuel": 29.456613
+	 }
+	]
+}
